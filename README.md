@@ -1,0 +1,1 @@
+# oddspanel-dummy-api
