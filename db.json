@@ -80,40 +80,1534 @@
   ],
   "matches": [
     {
-      "teams": ["FC Barcelona", "Real Madrid CF"],
-      "schedule": "Fri Jul 07 2023 09:50:57 GMT+1000"
+      "eid": 37971617,
+      "hid": 687,
+      "mq": 2051,
+      "hn": "Fredrikstad",
+      "ms": 0,
+      "mt": "16:00",
+      "cn": "Norvegia",
+      "an": "Bryne",
+      "tid": 22,
+      "sid": 1,
+      "sg": 1,
+      "mks": [
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "1",
+              "od": "1.49",
+              "si": "1",
+              "oid": 9166952177,
+              "sn": "1"
+            },
+            {
+              "os": "Active",
+              "sno": "X",
+              "od": "4.05",
+              "si": "2",
+              "oid": 9166952178,
+              "sn": "X"
+            },
+            {
+              "os": "Active",
+              "sno": "2",
+              "od": "6.1",
+              "si": "3",
+              "oid": 9166952179,
+              "sn": "2"
+            }
+          ],
+          "mn": "1X2",
+          "spr": "",
+          "mid": 10
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "1X",
+              "od": "1.07",
+              "si": "69",
+              "oid": 9166952258,
+              "sn": "1X"
+            },
+            {
+              "os": "Active",
+              "sno": "12",
+              "od": "1.18",
+              "si": "70",
+              "oid": 9166952257,
+              "sn": "12"
+            },
+            {
+              "os": "Active",
+              "sno": "X2",
+              "od": "2.38",
+              "si": "71",
+              "oid": 9166952259,
+              "sn": "X2"
+            }
+          ],
+          "mn": "DC",
+          "spr": "",
+          "mid": 7006
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Over",
+              "od": "1.82",
+              "si": "6",
+              "oid": 9171408424,
+              "sn": "Over (2.5) "
+            },
+            {
+              "os": "Active",
+              "sno": "Under",
+              "od": "1.89",
+              "si": "7",
+              "oid": 9171408425,
+              "sn": "Under (2.5) "
+            }
+          ],
+          "mn": "O/U 2.5 FT",
+          "spr": "2.5",
+          "mid": 60
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Yes",
+              "od": "1.97",
+              "si": "4",
+              "oid": 9170349889,
+              "sn": "GG"
+            },
+            {
+              "os": "Active",
+              "sno": "No",
+              "od": "1.74",
+              "si": "5",
+              "oid": 9170349888,
+              "sn": "NG"
+            }
+          ],
+          "mn": "GG/NG",
+          "spr": "",
+          "mid": 43
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Over",
+              "od": "1.22",
+              "si": "6",
+              "oid": 9167378009,
+              "sn": "O (1.5) "
+            },
+            {
+              "os": "Active",
+              "sno": "Under",
+              "od": "3.5",
+              "si": "7",
+              "oid": 9167378010,
+              "sn": "U (1.5) "
+            }
+          ],
+          "mn": "Over/Under",
+          "spr": "1.5",
+          "mid": 7012
+        }
+      ],
+      "md": "2023-08-09 16:00:00",
+      "tn": "1. Divisjon",
+      "sn": "Calcio",
+      "id": 37971617,
+      "aid": 663,
+      "cid": 5,
+      "mkcounts": 4222
     },
     {
-      "teams": ["Manchester United FC", "Liverpool FC"],
-      "schedule": "Sun May 21 2023 02:43:19 GMT+1000"
+      "eid": 37971621,
+      "hid": 680,
+      "mq": null,
+      "hn": "Hødd",
+      "ms": 0,
+      "mt": "16:00",
+      "cn": "Norvegia",
+      "an": "Sandnes",
+      "tid": 22,
+      "sid": 1,
+      "sg": 1,
+      "mks": [
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "1",
+              "od": "2.31",
+              "si": "1",
+              "oid": 9082129329,
+              "sn": "1"
+            },
+            {
+              "os": "Active",
+              "sno": "X",
+              "od": "3.35",
+              "si": "2",
+              "oid": 9082129330,
+              "sn": "X"
+            },
+            {
+              "os": "Active",
+              "sno": "2",
+              "od": "2.86",
+              "si": "3",
+              "oid": 9082129331,
+              "sn": "2"
+            }
+          ],
+          "mn": "1X2",
+          "spr": "",
+          "mid": 10
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "1X",
+              "od": "1.34",
+              "si": "69",
+              "oid": 9082129416,
+              "sn": "1X"
+            },
+            {
+              "os": "Active",
+              "sno": "12",
+              "od": "1.26",
+              "si": "70",
+              "oid": 9082129415,
+              "sn": "12"
+            },
+            {
+              "os": "Active",
+              "sno": "X2",
+              "od": "1.52",
+              "si": "71",
+              "oid": 9082129417,
+              "sn": "X2"
+            }
+          ],
+          "mn": "DC",
+          "spr": "",
+          "mid": 7006
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Over",
+              "od": "1.8",
+              "si": "6",
+              "oid": 9082129336,
+              "sn": "Over (2.5) "
+            },
+            {
+              "os": "Active",
+              "sno": "Under",
+              "od": "1.9",
+              "si": "7",
+              "oid": 9082129337,
+              "sn": "Under (2.5) "
+            }
+          ],
+          "mn": "O/U 2.5 FT",
+          "spr": "2.5",
+          "mid": 60
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Yes",
+              "od": "1.67",
+              "si": "4",
+              "oid": 9082129333,
+              "sn": "GG"
+            },
+            {
+              "os": "Active",
+              "sno": "No",
+              "od": "2.08",
+              "si": "5",
+              "oid": 9082129332,
+              "sn": "NG"
+            }
+          ],
+          "mn": "GG/NG",
+          "spr": "",
+          "mid": 43
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Over",
+              "od": "1.22",
+              "si": "6",
+              "oid": 9082129458,
+              "sn": "O (1.5) "
+            },
+            {
+              "os": "Active",
+              "sno": "Under",
+              "od": "3.55",
+              "si": "7",
+              "oid": 9082129459,
+              "sn": "U (1.5) "
+            }
+          ],
+          "mn": "Over/Under",
+          "spr": "1.5",
+          "mid": 7012
+        }
+      ],
+      "md": "2023-08-09 16:00:00",
+      "tn": "1. Divisjon",
+      "sn": "Calcio",
+      "id": 37971621,
+      "aid": 929,
+      "cid": 5,
+      "mkcounts": 4296
     },
     {
-      "teams": ["FC Bayern Munich", "Juventus FC"],
-      "schedule": "Thu May 25 2023 17:11:43 GMT+1000"
+      "eid": 37971623,
+      "hid": 662,
+      "mq": 81,
+      "hn": "Moss",
+      "ms": 0,
+      "mt": "16:00",
+      "cn": "Norvegia",
+      "an": "KFUM Oslo",
+      "tid": 22,
+      "sid": 1,
+      "sg": 1,
+      "mks": [
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "1",
+              "od": "2.81",
+              "si": "1",
+              "oid": 9167022804,
+              "sn": "1"
+            },
+            {
+              "os": "Active",
+              "sno": "X",
+              "od": "3.3",
+              "si": "2",
+              "oid": 9167022805,
+              "sn": "X"
+            },
+            {
+              "os": "Active",
+              "sno": "2",
+              "od": "2.36",
+              "si": "3",
+              "oid": 9167022806,
+              "sn": "2"
+            }
+          ],
+          "mn": "1X2",
+          "spr": "",
+          "mid": 10
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "1X",
+              "od": "1.49",
+              "si": "69",
+              "oid": 9167022883,
+              "sn": "1X"
+            },
+            {
+              "os": "Active",
+              "sno": "12",
+              "od": "1.26",
+              "si": "70",
+              "oid": 9167022882,
+              "sn": "12"
+            },
+            {
+              "os": "Active",
+              "sno": "X2",
+              "od": "1.35",
+              "si": "71",
+              "oid": 9167022884,
+              "sn": "X2"
+            }
+          ],
+          "mn": "DC",
+          "spr": "",
+          "mid": 7006
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Over",
+              "od": "1.7",
+              "si": "6",
+              "oid": 9195181857,
+              "sn": "Over (2.5) "
+            },
+            {
+              "os": "Active",
+              "sno": "Under",
+              "od": "2.03",
+              "si": "7",
+              "oid": 9195181858,
+              "sn": "Under (2.5) "
+            }
+          ],
+          "mn": "O/U 2.5 FT",
+          "spr": "2.5",
+          "mid": 60
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Yes",
+              "od": "1.59",
+              "si": "4",
+              "oid": 9195181856,
+              "sn": "GG"
+            },
+            {
+              "os": "Active",
+              "sno": "No",
+              "od": "2.22",
+              "si": "5",
+              "oid": 9195181855,
+              "sn": "NG"
+            }
+          ],
+          "mn": "GG/NG",
+          "spr": "",
+          "mid": 43
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Over",
+              "od": "1.19",
+              "si": "6",
+              "oid": 9171455649,
+              "sn": "O (1.5) "
+            },
+            {
+              "os": "Active",
+              "sno": "Under",
+              "od": "3.85",
+              "si": "7",
+              "oid": 9171455650,
+              "sn": "U (1.5) "
+            }
+          ],
+          "mn": "Over/Under",
+          "spr": "1.5",
+          "mid": 7012
+        }
+      ],
+      "md": "2023-08-09 16:00:00",
+      "tn": "1. Divisjon",
+      "sn": "Calcio",
+      "id": 37971623,
+      "aid": 786,
+      "cid": 5,
+      "mkcounts": 4222
     },
     {
-      "teams": ["Paris Saint-Germain FC", "AC Milan"],
-      "schedule": "Wed May 24 2023 14:54:33 GMT+1000"
+      "eid": 37971625,
+      "hid": 708,
+      "mq": 583,
+      "hn": "Ranheim",
+      "ms": 0,
+      "mt": "16:00",
+      "cn": "Norvegia",
+      "an": "Kongsvinger IL Fotball",
+      "tid": 22,
+      "sid": 1,
+      "sg": 1,
+      "mks": [
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "1",
+              "od": "3.15",
+              "si": "1",
+              "oid": 9082158403,
+              "sn": "1"
+            },
+            {
+              "os": "Active",
+              "sno": "X",
+              "od": "3.55",
+              "si": "2",
+              "oid": 9082158404,
+              "sn": "X"
+            },
+            {
+              "os": "Active",
+              "sno": "2",
+              "od": "2.06",
+              "si": "3",
+              "oid": 9082158405,
+              "sn": "2"
+            }
+          ],
+          "mn": "1X2",
+          "spr": "",
+          "mid": 10
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "1X",
+              "od": "1.65",
+              "si": "69",
+              "oid": 9082158490,
+              "sn": "1X"
+            },
+            {
+              "os": "Active",
+              "sno": "12",
+              "od": "1.23",
+              "si": "70",
+              "oid": 9082158489,
+              "sn": "12"
+            },
+            {
+              "os": "Active",
+              "sno": "X2",
+              "od": "1.29",
+              "si": "71",
+              "oid": 9082158491,
+              "sn": "X2"
+            }
+          ],
+          "mn": "DC",
+          "spr": "",
+          "mid": 7006
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Over",
+              "od": "1.54",
+              "si": "6",
+              "oid": 9082158410,
+              "sn": "Over (2.5) "
+            },
+            {
+              "os": "Active",
+              "sno": "Under",
+              "od": "2.32",
+              "si": "7",
+              "oid": 9082158411,
+              "sn": "Under (2.5) "
+            }
+          ],
+          "mn": "O/U 2.5 FT",
+          "spr": "2.5",
+          "mid": 60
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Yes",
+              "od": "1.48",
+              "si": "4",
+              "oid": 9082158407,
+              "sn": "GG"
+            },
+            {
+              "os": "Active",
+              "sno": "No",
+              "od": "2.48",
+              "si": "5",
+              "oid": 9082158406,
+              "sn": "NG"
+            }
+          ],
+          "mn": "GG/NG",
+          "spr": "",
+          "mid": 43
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Over",
+              "od": "1.13",
+              "si": "6",
+              "oid": 9082158532,
+              "sn": "O (1.5) "
+            },
+            {
+              "os": "Active",
+              "sno": "Under",
+              "od": "4.65",
+              "si": "7",
+              "oid": 9082158533,
+              "sn": "U (1.5) "
+            }
+          ],
+          "mn": "Over/Under",
+          "spr": "1.5",
+          "mid": 7012
+        }
+      ],
+      "md": "2023-08-09 16:00:00",
+      "tn": "1. Divisjon",
+      "sn": "Calcio",
+      "id": 37971625,
+      "aid": 672,
+      "cid": 5,
+      "mkcounts": 4294
     },
     {
-      "teams": ["Chelsea FC", "Arsenal FC"],
-      "schedule": "Tue May 30 2023 04:31:58 GMT+1000"
+      "eid": 37971627,
+      "hid": 668,
+      "mq": 494,
+      "hn": "Raufoss",
+      "ms": 0,
+      "mt": "16:00",
+      "cn": "Norvegia",
+      "an": "FK Jerv",
+      "tid": 22,
+      "sid": 1,
+      "sg": 1,
+      "mks": [
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "1",
+              "od": "1.98",
+              "si": "1",
+              "oid": 9082125280,
+              "sn": "1"
+            },
+            {
+              "os": "Active",
+              "sno": "X",
+              "od": "3.45",
+              "si": "2",
+              "oid": 9082125281,
+              "sn": "X"
+            },
+            {
+              "os": "Active",
+              "sno": "2",
+              "od": "3.45",
+              "si": "3",
+              "oid": 9082125282,
+              "sn": "2"
+            }
+          ],
+          "mn": "1X2",
+          "spr": "",
+          "mid": 10
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "1X",
+              "od": "1.24",
+              "si": "69",
+              "oid": 9082125367,
+              "sn": "1X"
+            },
+            {
+              "os": "Active",
+              "sno": "12",
+              "od": "1.24",
+              "si": "70",
+              "oid": 9082125366,
+              "sn": "12"
+            },
+            {
+              "os": "Active",
+              "sno": "X2",
+              "od": "1.7",
+              "si": "71",
+              "oid": 9082125368,
+              "sn": "X2"
+            }
+          ],
+          "mn": "DC",
+          "spr": "",
+          "mid": 7006
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Over",
+              "od": "1.68",
+              "si": "6",
+              "oid": 9082125287,
+              "sn": "Over (2.5) "
+            },
+            {
+              "os": "Active",
+              "sno": "Under",
+              "od": "2.06",
+              "si": "7",
+              "oid": 9082125288,
+              "sn": "Under (2.5) "
+            }
+          ],
+          "mn": "O/U 2.5 FT",
+          "spr": "2.5",
+          "mid": 60
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Yes",
+              "od": "1.57",
+              "si": "4",
+              "oid": 9082125284,
+              "sn": "GG"
+            },
+            {
+              "os": "Active",
+              "sno": "No",
+              "od": "2.26",
+              "si": "5",
+              "oid": 9082125283,
+              "sn": "NG"
+            }
+          ],
+          "mn": "GG/NG",
+          "spr": "",
+          "mid": 43
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Over",
+              "od": "1.18",
+              "si": "6",
+              "oid": 9082125409,
+              "sn": "O (1.5) "
+            },
+            {
+              "os": "Active",
+              "sno": "Under",
+              "od": "3.95",
+              "si": "7",
+              "oid": 9082125410,
+              "sn": "U (1.5) "
+            }
+          ],
+          "mn": "Over/Under",
+          "spr": "1.5",
+          "mid": 7012
+        }
+      ],
+      "md": "2023-08-09 16:00:00",
+      "tn": "1. Divisjon",
+      "sn": "Calcio",
+      "id": 37971627,
+      "aid": 862,
+      "cid": 5,
+      "mkcounts": 4294
     },
     {
-      "teams": ["Borussia Dortmund", "Manchester City FC"],
-      "schedule": "Fri Jul 07 2023 03:46:34 GMT+1000"
+      "eid": 37971629,
+      "hid": 665,
+      "mq": 478,
+      "hn": "Sogndal",
+      "ms": 0,
+      "mt": "16:00",
+      "cn": "Norvegia",
+      "an": "Kristiansund",
+      "tid": 22,
+      "sid": 1,
+      "sg": 1,
+      "mks": [
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "1",
+              "od": "2.11",
+              "si": "1",
+              "oid": 9082121231,
+              "sn": "1"
+            },
+            {
+              "os": "Active",
+              "sno": "X",
+              "od": "3.65",
+              "si": "2",
+              "oid": 9082121232,
+              "sn": "X"
+            },
+            {
+              "os": "Active",
+              "sno": "2",
+              "od": "3",
+              "si": "3",
+              "oid": 9082121233,
+              "sn": "2"
+            }
+          ],
+          "mn": "1X2",
+          "spr": "",
+          "mid": 10
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "1X",
+              "od": "1.31",
+              "si": "69",
+              "oid": 9082121318,
+              "sn": "1X"
+            },
+            {
+              "os": "Active",
+              "sno": "12",
+              "od": "1.22",
+              "si": "70",
+              "oid": 9082121317,
+              "sn": "12"
+            },
+            {
+              "os": "Active",
+              "sno": "X2",
+              "od": "1.62",
+              "si": "71",
+              "oid": 9082121319,
+              "sn": "X2"
+            }
+          ],
+          "mn": "DC",
+          "spr": "",
+          "mid": 7006
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Over",
+              "od": "1.43",
+              "si": "6",
+              "oid": 9082121238,
+              "sn": "Over (2.5) "
+            },
+            {
+              "os": "Active",
+              "sno": "Under",
+              "od": "2.63",
+              "si": "7",
+              "oid": 9082121239,
+              "sn": "Under (2.5) "
+            }
+          ],
+          "mn": "O/U 2.5 FT",
+          "spr": "2.5",
+          "mid": 60
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Yes",
+              "od": "1.46",
+              "si": "4",
+              "oid": 9082121235,
+              "sn": "GG"
+            },
+            {
+              "os": "Active",
+              "sno": "No",
+              "od": "2.53",
+              "si": "5",
+              "oid": 9082121234,
+              "sn": "NG"
+            }
+          ],
+          "mn": "GG/NG",
+          "spr": "",
+          "mid": 43
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Over",
+              "od": "1.09",
+              "si": "6",
+              "oid": 9082121360,
+              "sn": "O (1.5) "
+            },
+            {
+              "os": "Active",
+              "sno": "Under",
+              "od": "5.5",
+              "si": "7",
+              "oid": 9082121361,
+              "sn": "U (1.5) "
+            }
+          ],
+          "mn": "Over/Under",
+          "spr": "1.5",
+          "mid": 7012
+        }
+      ],
+      "md": "2023-08-09 16:00:00",
+      "tn": "1. Divisjon",
+      "sn": "Calcio",
+      "id": 37971629,
+      "aid": 957,
+      "cid": 5,
+      "mkcounts": 4296
     },
     {
-      "teams": ["Inter Milan", "Atletico Madrid"],
-      "schedule": "Tue May 30 2023 19:53:27 GMT+1000"
+      "eid": 37971633,
+      "hid": 667,
+      "mq": 477,
+      "hn": "Start",
+      "ms": 0,
+      "mt": "16:00",
+      "cn": "Norvegia",
+      "an": "Skeid",
+      "tid": 22,
+      "sid": 1,
+      "sg": 1,
+      "mks": [
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "1",
+              "od": "1.5",
+              "si": "1",
+              "oid": 9082117182,
+              "sn": "1"
+            },
+            {
+              "os": "Active",
+              "sno": "X",
+              "od": "4.5",
+              "si": "2",
+              "oid": 9082117183,
+              "sn": "X"
+            },
+            {
+              "os": "Active",
+              "sno": "2",
+              "od": "5.3",
+              "si": "3",
+              "oid": 9082117184,
+              "sn": "2"
+            }
+          ],
+          "mn": "1X2",
+          "spr": "",
+          "mid": 10
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "1X",
+              "od": "1.1",
+              "si": "69",
+              "oid": 9082117269,
+              "sn": "1X"
+            },
+            {
+              "os": "Active",
+              "sno": "12",
+              "od": "1.15",
+              "si": "70",
+              "oid": 9082117268,
+              "sn": "12"
+            },
+            {
+              "os": "Active",
+              "sno": "X2",
+              "od": "2.37",
+              "si": "71",
+              "oid": 9082117270,
+              "sn": "X2"
+            }
+          ],
+          "mn": "DC",
+          "spr": "",
+          "mid": 7006
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Over",
+              "od": "1.39",
+              "si": "6",
+              "oid": 9082117189,
+              "sn": "Over (2.5) "
+            },
+            {
+              "os": "Active",
+              "sno": "Under",
+              "od": "2.77",
+              "si": "7",
+              "oid": 9082117190,
+              "sn": "Under (2.5) "
+            }
+          ],
+          "mn": "O/U 2.5 FT",
+          "spr": "2.5",
+          "mid": 60
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Yes",
+              "od": "1.52",
+              "si": "4",
+              "oid": 9082117186,
+              "sn": "GG"
+            },
+            {
+              "os": "Active",
+              "sno": "No",
+              "od": "2.38",
+              "si": "5",
+              "oid": 9082117185,
+              "sn": "NG"
+            }
+          ],
+          "mn": "GG/NG",
+          "spr": "",
+          "mid": 43
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Over",
+              "od": "1.07",
+              "si": "6",
+              "oid": 9082117311,
+              "sn": "O (1.5) "
+            },
+            {
+              "os": "Active",
+              "sno": "Under",
+              "od": "5.9",
+              "si": "7",
+              "oid": 9082117312,
+              "sn": "U (1.5) "
+            }
+          ],
+          "mn": "Over/Under",
+          "spr": "1.5",
+          "mid": 7012
+        }
+      ],
+      "md": "2023-08-09 16:00:00",
+      "tn": "1. Divisjon",
+      "sn": "Calcio",
+      "id": 37971633,
+      "aid": 679,
+      "cid": 5,
+      "mkcounts": 4296
     },
     {
-      "teams": ["Ajax Amsterdam", "Boca Juniors"],
-      "schedule": "Fri Jun 23 2023 22:41:06 GMT+1000"
+      "eid": 37971635,
+      "hid": 682,
+      "mq": 560,
+      "hn": "Aasane Fotball",
+      "ms": 0,
+      "mt": "16:00",
+      "cn": "Norvegia",
+      "an": "Mjondalen",
+      "tid": 22,
+      "sid": 1,
+      "sg": 1,
+      "mks": [
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "1",
+              "od": "1.97",
+              "si": "1",
+              "oid": 9082154354,
+              "sn": "1"
+            },
+            {
+              "os": "Active",
+              "sno": "X",
+              "od": "3.6",
+              "si": "2",
+              "oid": 9082154355,
+              "sn": "X"
+            },
+            {
+              "os": "Active",
+              "sno": "2",
+              "od": "3.35",
+              "si": "3",
+              "oid": 9082154356,
+              "sn": "2"
+            }
+          ],
+          "mn": "1X2",
+          "spr": "",
+          "mid": 10
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "1X",
+              "od": "1.25",
+              "si": "69",
+              "oid": 9082154441,
+              "sn": "1X"
+            },
+            {
+              "os": "Active",
+              "sno": "12",
+              "od": "1.22",
+              "si": "70",
+              "oid": 9082154440,
+              "sn": "12"
+            },
+            {
+              "os": "Active",
+              "sno": "X2",
+              "od": "1.71",
+              "si": "71",
+              "oid": 9082154442,
+              "sn": "X2"
+            }
+          ],
+          "mn": "DC",
+          "spr": "",
+          "mid": 7006
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Over",
+              "od": "1.48",
+              "si": "6",
+              "oid": 9082154361,
+              "sn": "Over (2.5) "
+            },
+            {
+              "os": "Active",
+              "sno": "Under",
+              "od": "2.48",
+              "si": "7",
+              "oid": 9082154362,
+              "sn": "Under (2.5) "
+            }
+          ],
+          "mn": "O/U 2.5 FT",
+          "spr": "2.5",
+          "mid": 60
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Yes",
+              "od": "1.43",
+              "si": "4",
+              "oid": 9082154358,
+              "sn": "GG"
+            },
+            {
+              "os": "Active",
+              "sno": "No",
+              "od": "2.63",
+              "si": "5",
+              "oid": 9082154357,
+              "sn": "NG"
+            }
+          ],
+          "mn": "GG/NG",
+          "spr": "",
+          "mid": 43
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Over",
+              "od": "1.1",
+              "si": "6",
+              "oid": 9082154483,
+              "sn": "O (1.5) "
+            },
+            {
+              "os": "Active",
+              "sno": "Under",
+              "od": "5.1",
+              "si": "7",
+              "oid": 9082154484,
+              "sn": "U (1.5) "
+            }
+          ],
+          "mn": "Over/Under",
+          "spr": "1.5",
+          "mid": 7012
+        }
+      ],
+      "md": "2023-08-09 16:00:00",
+      "tn": "1. Divisjon",
+      "sn": "Calcio",
+      "id": 37971635,
+      "aid": 903,
+      "cid": 5,
+      "mkcounts": 4294
     },
     {
-      "teams": ["River Plate", "Flamengo"],
-      "schedule": "Thu Jul 06 2023 04:31:29 GMT+1000"
+      "eid": 38923563,
+      "hid": 2246,
+      "mq": 780,
+      "hn": "Vaasan",
+      "ms": 0,
+      "mt": "16:00",
+      "cn": "Finlandia",
+      "an": "Seinajoen",
+      "tid": 41,
+      "sid": 1,
+      "sg": 1,
+      "mks": [
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "1",
+              "od": "2.87",
+              "si": "1",
+              "oid": 9173049151,
+              "sn": "1"
+            },
+            {
+              "os": "Active",
+              "sno": "X",
+              "od": "3.2",
+              "si": "2",
+              "oid": 9173049152,
+              "sn": "X"
+            },
+            {
+              "os": "Active",
+              "sno": "2",
+              "od": "2.38",
+              "si": "3",
+              "oid": 9173049153,
+              "sn": "2"
+            }
+          ],
+          "mn": "1X2",
+          "spr": "",
+          "mid": 10
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "1X",
+              "od": "1.49",
+              "si": "69",
+              "oid": 9173049232,
+              "sn": "1X"
+            },
+            {
+              "os": "Active",
+              "sno": "12",
+              "od": "1.28",
+              "si": "70",
+              "oid": 9173049231,
+              "sn": "12"
+            },
+            {
+              "os": "Active",
+              "sno": "X2",
+              "od": "1.34",
+              "si": "71",
+              "oid": 9173049233,
+              "sn": "X2"
+            }
+          ],
+          "mn": "DC",
+          "spr": "",
+          "mid": 7006
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Over",
+              "od": "1.9",
+              "si": "6",
+              "oid": 9206792438,
+              "sn": "Over (2.5) "
+            },
+            {
+              "os": "Active",
+              "sno": "Under",
+              "od": "1.8",
+              "si": "7",
+              "oid": 9206792439,
+              "sn": "Under (2.5) "
+            }
+          ],
+          "mn": "O/U 2.5 FT",
+          "spr": "2.5",
+          "mid": 60
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Yes",
+              "od": "1.72",
+              "si": "4",
+              "oid": 9206792437,
+              "sn": "GG"
+            },
+            {
+              "os": "Active",
+              "sno": "No",
+              "od": "2",
+              "si": "5",
+              "oid": 9206792436,
+              "sn": "NG"
+            }
+          ],
+          "mn": "GG/NG",
+          "spr": "",
+          "mid": 43
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Over",
+              "od": "1.26",
+              "si": "6",
+              "oid": 9173049276,
+              "sn": "O (1.5) "
+            },
+            {
+              "os": "Active",
+              "sno": "Under",
+              "od": "3.25",
+              "si": "7",
+              "oid": 9173049277,
+              "sn": "U (1.5) "
+            }
+          ],
+          "mn": "Over/Under",
+          "spr": "1.5",
+          "mid": 7012
+        }
+      ],
+      "md": "2023-08-09 16:00:00",
+      "tn": "Veikkausliiga",
+      "sn": "Calcio",
+      "id": 38923563,
+      "aid": 22395,
+      "cid": 19,
+      "mkcounts": 14682
+    },
+    {
+      "eid": 41976461,
+      "hid": 38736,
+      "mq": 2230,
+      "hn": "Wisla Pulawy",
+      "ms": 0,
+      "mt": "16:00",
+      "cn": "Polonia",
+      "an": "Hutnik Cracovia",
+      "tid": 281,
+      "sid": 1,
+      "sg": 1,
+      "mks": [
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "1",
+              "od": "2.08",
+              "si": "1",
+              "oid": 9191430990,
+              "sn": "1"
+            },
+            {
+              "os": "Active",
+              "sno": "X",
+              "od": "3.5",
+              "si": "2",
+              "oid": 9191430991,
+              "sn": "X"
+            },
+            {
+              "os": "Active",
+              "sno": "2",
+              "od": "3.2",
+              "si": "3",
+              "oid": 9191430992,
+              "sn": "2"
+            }
+          ],
+          "mn": "1X2",
+          "spr": "",
+          "mid": 10
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "1X",
+              "od": "1.28",
+              "si": "69",
+              "oid": 9191430994,
+              "sn": "1X"
+            },
+            {
+              "os": "Active",
+              "sno": "12",
+              "od": "1.24",
+              "si": "70",
+              "oid": 9191430993,
+              "sn": "12"
+            },
+            {
+              "os": "Active",
+              "sno": "X2",
+              "od": "1.64",
+              "si": "71",
+              "oid": 9191430995,
+              "sn": "X2"
+            }
+          ],
+          "mn": "DC",
+          "spr": "",
+          "mid": 7006
+        },
+        {
+          "ss": [
+            {
+              "os": "Deactivated",
+              "sno": "Over",
+              "od": "-",
+              "si": "6",
+              "oid": null,
+              "sn": "Over (2.5) "
+            },
+            {
+              "os": "Deactivated",
+              "sno": "Under",
+              "od": "-",
+              "si": "7",
+              "oid": null,
+              "sn": "Under (2.5) "
+            }
+          ],
+          "mn": "O/U 2.5 FT",
+          "spr": "2.5",
+          "mid": 60
+        },
+        {
+          "ss": [
+            {
+              "os": "Deactivated",
+              "sno": "Yes",
+              "od": "-",
+              "si": "4",
+              "oid": null,
+              "sn": "GG"
+            },
+            {
+              "os": "Deactivated",
+              "sno": "No",
+              "od": "-",
+              "si": "5",
+              "oid": null,
+              "sn": "NG"
+            }
+          ],
+          "mn": "GG/NG",
+          "spr": "",
+          "mid": 43
+        },
+        {
+          "ss": [
+            {
+              "os": "Active",
+              "sno": "Over",
+              "od": "1.2",
+              "si": "6",
+              "oid": 9200640652,
+              "sn": "O (1.5) "
+            },
+            {
+              "os": "Active",
+              "sno": "Under",
+              "od": "3.75",
+              "si": "7",
+              "oid": 9200640653,
+              "sn": "U (1.5) "
+            }
+          ],
+          "mn": "Over/Under",
+          "spr": "1.5",
+          "mid": 7012
+        }
+      ],
+      "md": "2023-08-09 16:00:00",
+      "tn": "Puchar Polski",
+      "sn": "Calcio",
+      "id": 41976461,
+      "aid": 38719,
+      "cid": 47,
+      "mkcounts": 4158
     }
   ]
 }
