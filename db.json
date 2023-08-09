@@ -36,5 +36,84 @@
     { "id": "S331136578", "name": "Motorcycle Racing" },
     { "id": "S348190404", "name": "Stock Car Racing" },
     { "id": "S353834694", "name": "Motorsports" }
+  ],
+  "countries": [
+    { "id": "C06011180", "name": "Argentina" },
+    { "id": "C13665607", "name": "Armenia" },
+    { "id": "C21287961", "name": "Australia" },
+    { "id": "C34314490", "name": "Austria" },
+    { "id": "C46680479", "name": "Azerbaijan" },
+    { "id": "C51248217", "name": "Belarus" },
+    { "id": "C61929660", "name": "Belgium" },
+    { "id": "C7693065", "name": "Bolivia" },
+    { "id": "C81195748", "name": "Bosnia & Herzegovina" },
+    { "id": "C93710579", "name": "Brazil" },
+    { "id": "C109956134", "name": "Bulgaria" },
+    { "id": "C116898362", "name": "Cambodia" },
+    { "id": "C121066531", "name": "Canada" },
+    { "id": "C134393314", "name": "Chile" },
+    { "id": "C142065135", "name": "China" },
+    { "id": "C152694490", "name": "Colombia" },
+    { "id": "C168990276", "name": "Costa Rica" },
+    { "id": "C17675177", "name": "Croatia" },
+    { "id": "C187815821", "name": "Cyprus" },
+    { "id": "C195705384", "name": "England" },
+    { "id": "C204593072", "name": "France" },
+    { "id": "C215678187", "name": "Germany" },
+    { "id": "C227682784", "name": "Italy" },
+    { "id": "C233839073", "name": "Netherlands" },
+    { "id": "C245734550", "name": "Portugal" },
+    { "id": "C251330331", "name": "Spain" },
+    { "id": "C263137848", "name": "Uruguay" }
+  ],
+  "touraments": [
+    { "id": "T01864215", "name": "FIFA World Cup" },
+    { "id": "T14790335", "name": "Champions League" },
+    { "id": "T26677514", "name": "Copa Libertadores" },
+    { "id": "T37769142", "name": "AFC Asian Cup" },
+    { "id": "T49703422", "name": "Africa Cup of Nations" },
+    { "id": "T5629142", "name": "CONCACAF Gold Cup" },
+    { "id": "T69482164", "name": "Copa América" },
+    { "id": "T72755227", "name": "UEFA Championship" },
+    { "id": "T85786486", "name": "FIFA Club World Cup" },
+    { "id": "T96687315", "name": "Copa Sudamericana" }
+  ],
+  "matches": [
+    {
+      "teams": ["FC Barcelona", "Real Madrid CF"],
+      "schedule": "Fri Jul 07 2023 09:50:57 GMT+1000"
+    },
+    {
+      "teams": ["Manchester United FC", "Liverpool FC"],
+      "schedule": "Sun May 21 2023 02:43:19 GMT+1000"
+    },
+    {
+      "teams": ["FC Bayern Munich", "Juventus FC"],
+      "schedule": "Thu May 25 2023 17:11:43 GMT+1000"
+    },
+    {
+      "teams": ["Paris Saint-Germain FC", "AC Milan"],
+      "schedule": "Wed May 24 2023 14:54:33 GMT+1000"
+    },
+    {
+      "teams": ["Chelsea FC", "Arsenal FC"],
+      "schedule": "Tue May 30 2023 04:31:58 GMT+1000"
+    },
+    {
+      "teams": ["Borussia Dortmund", "Manchester City FC"],
+      "schedule": "Fri Jul 07 2023 03:46:34 GMT+1000"
+    },
+    {
+      "teams": ["Inter Milan", "Atletico Madrid"],
+      "schedule": "Tue May 30 2023 19:53:27 GMT+1000"
+    },
+    {
+      "teams": ["Ajax Amsterdam", "Boca Juniors"],
+      "schedule": "Fri Jun 23 2023 22:41:06 GMT+1000"
+    },
+    {
+      "teams": ["River Plate", "Flamengo"],
+      "schedule": "Thu Jul 06 2023 04:31:29 GMT+1000"
+    }
   ]
 }
