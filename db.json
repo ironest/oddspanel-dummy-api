@@ -29,6 +29,12 @@
     { "id": "S268160546", "name": "ESport LOL" },
     { "id": "S273163215", "name": "MMA" },
     { "id": "S286997064", "name": "Indy Racing" },
-    { "id": "S297814299", "name": "Speedway" }
+    { "id": "S297814299", "name": "Speedway" },
+    { "id": "S305803556", "name": "Gaelic Football" },
+    { "id": "S316111705", "name": "Gaelic Hurling" },
+    { "id": "S325732865", "name": "Basketball 3x3" },
+    { "id": "S331136578", "name": "Motorcycle Racing" },
+    { "id": "S348190404", "name": "Stock Car Racing" },
+    { "id": "S353834694", "name": "Motorsports" }
   ]
 }
