@@ -66,7 +66,7 @@
     { "id": "C251330331", "name": "Spain" },
     { "id": "C263137848", "name": "Uruguay" }
   ],
-  "touraments": [
+  "tournaments": [
     { "id": "T01864215", "name": "FIFA World Cup" },
     { "id": "T14790335", "name": "Champions League" },
     { "id": "T26677514", "name": "Copa Libertadores" },
